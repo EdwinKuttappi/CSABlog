@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: home
 title: Student Blog
 ---
 
 ## Edwin's CSA Page
 
-Go to my [Github account](https://github.com/EdwinKuttappi) !!
+Go to my [Github account](https://github.com/EdwinKuttappi)!!
 ![About](/images/AboutEdwin.png)
 
 ## Overview of Hacks, Study and Tangibles
