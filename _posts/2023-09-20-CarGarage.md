@@ -22,7 +22,7 @@ type: tangibles
     <script>
         // Function to read and populate the table from the CSV file
         function populateTable() {
-            fetch('https://raw.githubusercontent.com/EdwinKuttappi/CSABlog/main/_posts_/files/cargarage.csv')
+            fetch('https://raw.githubusercontent.com/EdwinKuttappi/CSABlog/main/_posts/files/cargarage.csv')
                 .then(response => response.text())
                 .then(data => {
                     const rows = data.split('\n');
