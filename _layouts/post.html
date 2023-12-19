@@ -55,6 +55,7 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% include read_time.html %}
     {{ content }}
   </div>
   {%- if page.comments -%}
