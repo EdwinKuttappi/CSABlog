@@ -21,33 +21,41 @@ Be prepared to talk about the following...
 This the blog I will be using to showcase all requirements for this Week 18 Checkpoint for Indicators
 I'll be only focusing on my work from APCSA, the first half, as I think it provides more relevant evidence of key indicators.
 
-### Silver Screen Stats
+### Classroom Jukebox
 
 This was the first project that we took on getting into the year, so I wanted to mention it. It doesn't work anymore (the API key expired), but we had a fully functional game in which you would try to guess which movie, between two movies, had a higher IMDb score. We even had a game currency system that would let the user customize their mouse. I think it shows some initial passion for making interesting, unique things early on in the year.
 
 [Click here](https://drewreed2005.github.io/dre2//2023/09/08/Styling_Movies.html) to see half-working demo.
 
-### [DADDiJktra](https://csa-tri-1.github.io/DADDiJkstra-frontend/pages/app)
+### Sorting Mini Project
 
 This was the first main project of the year and absolutely the most complicated one I've taken on so far. I was primarily the backend developer, so I worked fairly closely with the Dijktra algorithm code while primarily focusing on the user login system.
 
 Our backend is no longer deployed, but [this page](https://csa-tri-1.github.io/DADDiJkstra-frontend/pages/signin) was where most of my work went (at least from the backend). I showed a good commit related to the project later in this blog, but I wanted to say that working on the login system was absolutely critical to me learning how to use Java in the backend, especially when it came to using JWT and Spring Security. I had a lot of problems with data staying persistent or breaking the database when they were deleted (due to a bad workaround I found for passwords not being encrypted with certain creation methods), but I was able to fix them all before the project was due to be finished.
 
-### Palette Puzzle
-
-This was my most recent group project, and one that I think my contributions to were the strongest. My work on the [big simulation](https://madradium.github.io/MADRadium-DevLogs/bigSim/) page requires strong understanding of both frontend-backend connection (i.e., what data to send) as well as the sorting algorithms themselves. I go over a big backend commit related to sorting algorithms in the key commits section.
-
-## College Board Prep
+## College Board Quizzes/Tests and Prep
 
 I wanted to use this section to show my College Board quiz reflections and trimester 1 lesson grades, the latter of which being important because they're a reflection of my work toward understanding the specific lesson topics.
 
 ### College Board MCQ 1
 
-[Click here](https://drewreed2005.github.io/dre2//2023/11/03/CB_Quiz_Tri_1.html) to see the reflection. I got 38/40.
+[Link to Blog](https://edwinkuttappi.github.io/CSABlog/2023/11/09/CSAQuiz1.html)
+Score: 31/40
+
+This was the first CollegeBoard MCQ that I did not do so well on because I was not able to do so well and I got a lot of help with a lot of the questions, even ones that I did not completely understand.
 
 ### College Board MCQ 2
 
-[Click here](https://drewreed2005.github.io/dre2.0//2023/12/21/CB_MC_2015_Reflection.html) for the second reflection. This one was more recent, so it's fresh on my mind to talk about.
+[Link to Blog](https://edwinkuttappi.github.io/CSABlog/2023/12/21/CB-MCQ-2_IPYNB_2_.html)
+Score: 31/39
+
+This is the second CollegeBoard MCQ that we did, and I took a lot more time on this quiz because I wanted to work on this more and understand the concepts. There were questions I spent over 10 minutes on because I was writing it in VSCode and testing it to find the right option.
+
+### AP Exam Study Guide
+
+[Link to Blog](https://edwinkuttappi.github.io/CSABlog/2024/05/11/APExamStudyGuide.html)
+
+This is the blog that I plan to maintain in preparation for the AP Exam because I need to know more Java and I can refer to this to see the content from each lesson.
 
 ### Tri 1 Lesson Grades
 
