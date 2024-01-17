@@ -19,23 +19,29 @@ Be prepared to talk about the following...
 
 ## Key Assets and Projects
 This the blog I will be using to showcase all requirements for this Week 18 Checkpoint for Indicators
+
 I'll be only focusing on my work from APCSA, the first half, as I think it provides more relevant evidence of key indicators.
 
 ### Classroom Jukebox
 
-This was the first project that we took on getting into the year, so I wanted to mention it. It doesn't work anymore (the API key expired), but we had a fully functional game in which you would try to guess which movie, between two movies, had a higher IMDb score. We even had a game currency system that would let the user customize their mouse. I think it shows some initial passion for making interesting, unique things early on in the year.
+This was the first project that we took on getting into the year, so I wanted to mention it. It doesn't work anymore because our backend isn't deployed and the API key expired, but we had a fully functional app in which you could add songs to a playlist for a classroom so that a playlist would be played according to the students' liking. This was a good project because it was something we could all work throughout the year and make a product that could be used at Del Norte and other PUSD Schools.
 
-[Click here](https://drewreed2005.github.io/dre2//2023/09/08/Styling_Movies.html) to see half-working demo.
+[Classroom Jukebox](classroomjukebox.com) to see the demo as of now.
 
 ### Sorting Mini Project
 
-This was the first main project of the year and absolutely the most complicated one I've taken on so far. I was primarily the backend developer, so I worked fairly closely with the Dijktra algorithm code while primarily focusing on the user login system.
+This was the first mini project of the year and it was one of the most interesting projects that we had and it eventually became our inspiration for our 2 trimester project. It was very interesting and it was absolutely the most complicated one I've done so far. I was the frontend developer and I tried to make the UI look more cooler.
 
-Our backend is no longer deployed, but [this page](https://csa-tri-1.github.io/DADDiJkstra-frontend/pages/signin) was where most of my work went (at least from the backend). I showed a good commit related to the project later in this blog, but I wanted to say that working on the login system was absolutely critical to me learning how to use Java in the backend, especially when it came to using JWT and Spring Security. I had a lot of problems with data staying persistent or breaking the database when they were deleted (due to a bad workaround I found for passwords not being encrypted with certain creation methods), but I was able to fix them all before the project was due to be finished.
+Our backend is not deployed, but [our frontend](https://sortingminiproject.github.io/frontend/) was where most of my work went. I tried to learn what Yuri was doing in the backend with his methods for each sorting and how it was accessed on the frontend. I see a repeat of APCSP where I didn't learn flask completely until second trimester and I could do it by myself. I hope that I can learn Spring soon and use it by myself since Java is so big.
 
 ## College Board Quizzes/Tests and Prep
 
 I wanted to use this section to show my College Board quiz reflections and trimester 1 lesson grades, the latter of which being important because they're a reflection of my work toward understanding the specific lesson topics.
+
+### CollegeBoard Study Guide
+After the first CollegeBoard quiz, I started to make an APCSA AP Exam Study Guide that I can use, it's basically a master study guide that I can use for the AP Exam and make sure that I understand everything because I won't have ChatGPT to help me code. Here is the [Study Guide](https://edwinkuttappi.github.io/CSABlog/2024/05/11/APExamStudyGuide_IPYNB_2_.html)
+
+This is the blog that I plan to maintain in preparation for the AP Exam because I need to know more Java and I can refer to this to see the content from each lesson.
 
 ### College Board MCQ 1
 
@@ -51,39 +57,36 @@ Score: 31/39
 
 This is the second CollegeBoard MCQ that we did, and I took a lot more time on this quiz because I wanted to work on this more and understand the concepts. There were questions I spent over 10 minutes on because I was writing it in VSCode and testing it to find the right option.
 
-### AP Exam Study Guide
-
-[Link to Blog](https://edwinkuttappi.github.io/CSABlog/2024/05/11/APExamStudyGuide.html)
-
-This is the blog that I plan to maintain in preparation for the AP Exam because I need to know more Java and I can refer to this to see the content from each lesson.
-
 ### Tri 1 Lesson Grades
 
-[Click here](https://drewreed2005.github.io/dre2//2023/11/03/Student_Scores_Tri_1.html) for the blog with lesson grades. All lesson blogs individually are in my old blog's timebox. The most recent lessons are also relevant, but we just went over that.
+This is what I used to show off my Lesson Grades. This [Review Ticket](https://github.com/EdwinKuttappi/CSABlog/issues/5) contains all of my grades for each Unit's hacks and shows my understanding and mastery of the concept to some extent. All Unit 1-10 Blogs can be found in my Timebox.
+
+### Tri 2 Lesson Grades
+
+This is what I used to show off my Lesson Grades. This [Review Ticket](https://github.com/EdwinKuttappi/CSABlog/issues/8) contains all of my grades for each Lesson's hacks and shows my understanding and mastery of the concept to some extent. All Lesson Blogs can be seen in my Timebox below.
 
 ## Organization
+This section will show how I organized my timebox and how I was able to show off what I did for each lesson and how my github-pages site was maintained.
 
 ### Timebox
 
-I recently moved my work over from the original GitHub Pages template to Teacher 2.0, which is the blog you're seeing now. I'm going to style it soon, I promise. As a result of the move, most of my timebox from the rest of the year is found on my old site, not this one.
+I recently moved my work over from the original GitHub Pages template to Teacher 2.0, which is the blog you're seeing now and I transferred all the data into it so that my timebox is updated.
 
-[Click here](https://drewreed2005.github.io/dre2/csa) for the majority of my work earlier in the year.
+This is my [timebox](https://edwinkuttappi.github.io/CSABlog/csa) for my work earlier in the year.
 
-[Click here](https://drewreed2005.github.io/dre2.0/AA_csa.html) for my most recent work organized in a timebox. Because the move was so recent, I only really have blogs from the most recent student lessons.
+On the timebox, I try to make sure that I have a Goals/Plans blog for each week that we are in so that I can refer to it towards the end of the week to see how much progress I made
 
 ### Issues and Scrum Boards
 
 One thing I think I've improved at a lot since the beginning of the year is creating review tickets and organizing Scrum Boards for projects.
 
-My [DADDiJkstra](https://github.com/orgs/CSA-Tri-1/projects/3) Scrum Board was set up by David, who helped me a lot with understanding useful tools like milestones and issue flags, but I contributed a lot to it. I was mostly responsible for [planning the demonstration video](https://github.com/orgs/CSA-Tri-1/projects/3?pane=issue&itemId=40188539) and the [qualification review ticket](https://github.com/orgs/CSA-Tri-1/projects/3?pane=issue&itemId=43409888).
+My [Classroom Jukebox](https://github.com/orgs/CSA-Tri-1/projects/3) team made sure that we used Scrum Boards and made notes from each stand-up meeting that we had. I tried to recreate what I did in Trimester 3 of APCSP in which we were very organized. We also used issues to document changes and make sure that we did everything that we needed and updated it on the scrum board. I was mostly responsible for [the frontend](https://classroomjukebox.com) and the [search page](classroomjukebox.com/search).
 
-I was entirely responsible for the [mini-project Scrum Board](https://github.com/orgs/MADradium/projects/1/views/1?layout=board), but this is one I think I could have improved upon greatly. While the individual issues that were created made sense, I didn't do a good job enforcing that things should be added to the issue (replies and edits) to show progress, so most stayed the same as they were when they were first created. I did make edits to the [backend issue](https://github.com/orgs/MADradium/projects/1/views/1?layout=board&pane=issue&itemId=44754377) and I think I did a great job with all of the ticket issues (see rightmost section), but ultimately, I think it could have been organized and utilized better.
+For this two trimester project, I want to make sure we are organized and use a scrum table in which we update the status of each item that we have in the table so that we can make sure that it looks cool.
 
 ## Github Commits
 
-[Here's a link to my profile](https://github.com/drewreed2005?tab=overview&from=2023-12-01&to=2023-12-31) so you can see for yourself, but I have been consistently making commits throughout the year on various repositories. However, this is the area that I want to improve on the most. I make a small number of very large commits, rather than splitting them up into smaller commits, even though I know not to do that. I'm going to work on improving on that as we approach the end of the school year.
-
-<img src="{{site.baseurl}}/images/Screen Shot 2024-01-11 at 8.47.01 AM.png">
+[Here's my profile](https://github.com/EdwinKuttappi?tab=overview) so you can see for yourself, but I have been consistently making commits throughout the year on multiple repositories. However, this is the area that I want to improve on the most. I make a lot of commits, but I feel that those commits are largely frontend or to my blog, I want to start committing more to the backend with the help of Yuri.
 
 ### My Favorite Commits
 
