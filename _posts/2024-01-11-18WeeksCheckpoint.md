@@ -92,12 +92,8 @@ For this two trimester project, I want to make sure we are organized and use a s
 
 Here are a couple commits to go over:
 - [Changed Search Look](https://github.com/aidenhuynh/cj_frontend/commit/2e24544ca8688e9c83ec17350e60a4a18ae49e53)
-- [Big sorting algorithm commit](https://github.com/drewreed2005/PalettePuzzleBE/commit/b33c247a9dc57840dd4e3dd430aa2a73ea3d31fc)
+- [Fixing Fibo work](https://github.com/SortingMiniProject/SpotifyBackend/commit/b135d339cfc27805d9a4c278a155556322e5040b)
 
 ## What am I Passionate About?
 
-In this upcoming project, I want to push myself like I did in the trimester 1 project. I want to make something that requires some deeper research and knowedge to make efficiently, but also something that is general enough in function and purpose that people around our school can make use of it.
-
-My group is set on making a teacher/student resources website specifically for Del Norte, with an emphasis on computer science and STEM. Some of the things we talked about incorporating would potentially require me to gain some new knowledge from others who have more experience, such as the idea to make a built-in Kahoot-like system where teachers can more easily assign a live quiz to their classes. Toby suggested that we use websockets for it, and AJ approved the idea, so we might do some work on that part of the website.
-
-I think the fact that I'll be working on a website that may have a discernable impact on our school community (if marketed correctly) will be extremely motivating for me, as I mentioned in the creativity issue we made earlier this week.
+My group is set on making a game for lessons and I think this will be really useful. We will be a part of the APCSA/APCSP/CSSE lessons in the future helping students to understand concepts like Binary. I think this will be something I will be passionate about because I will be a part of Mr. Mortensen's TED Talks, and this is actually something that can be of use for students to make sure that they get a good grasp of what to do
