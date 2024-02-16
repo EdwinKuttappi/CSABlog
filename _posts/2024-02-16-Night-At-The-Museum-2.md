@@ -70,7 +70,7 @@ Here are my responses to the questions that were provided on the master schedule
 ## Blog on event
 1) **Something you saw in CompSci that impressed** I really liked Adviks project, it was something very unique and advanced for a group of people coming from AP Computer Science Principles. It made me a little sad that these people had a way better project, because I am the one who is supposed to have something a little more professional because I am in CSA, but it is good that they are doing well in their class. I think this project was my favorite because it was original in terms of Del Norte Computer Science Classes.
 
-2) **something you saw outside of CompSci that you liked?** I really liked the music par that was performed by the band. This happened very early in Night at the Museum, around 6 o' clock and it was pretty good that they were able to work towards this and perform a very good piece in front of all the attendees. I've always liked music, what if I combined computer science and music and made a project like an online piano using the assets that the CSSE people used for their sound effects. That would be a good feature to implement and learn a lot from.
+2) **Something you saw outside of CompSci that you liked?** I really liked the music par that was performed by the band. This happened very early in Night at the Museum, around 6 o' clock and it was pretty good that they were able to work towards this and perform a very good piece in front of all the attendees. I've always liked music, what if I combined computer science and music and made a project like an online piano using the assets that the CSSE people used for their sound effects. That would be a good feature to implement and learn a lot from.
 
 
 
