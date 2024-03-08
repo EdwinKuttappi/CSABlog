@@ -26,9 +26,10 @@ type: hacks
      - [AP FRQ's](https://github.com/EdwinKuttappi/CSABlog/issues/11)
      - [AP Exam Prep](https://edwinkuttappi.github.io/CSABlog/2024/05/11/APExamStudyGuide_IPYNB_2_.html)
      - [MC Quiz (Old)](https://edwinkuttappi.github.io/CSABlog/2023/11/09/CSAQuiz1.html)
-     - [Group Student Teaching](https://github.com/Ryanrob327/CSA/issues/9#issue-2174380062)
 - Project work.  Student follows team requirements and expectations.  They are active in the Scrum work and timelines.
      - <img width="599" alt="image" src="https://github.com/EdwinKuttappi/CSABlog/assets/111558617/e4303c63-2273-4c23-bdfc-1f1e8d3fe51e">
+     - [Group Student Teaching](https://github.com/Ryanrob327/CSA/issues/9#issue-2174380062)
+          - Working with Ryan on creating our student lesson for 3 different topics
 
 # 1.65-2.4/3.0 Seed
 Very few students end up in this category.  Seed is intended to handle all issues at the lowest level, between Teacher and Student.  Office Hours and after School may be used to recover Seed.  However, Seed recovery can be a slow process.  For instance, a single classroom miss may require double the time for equitable makeup.
